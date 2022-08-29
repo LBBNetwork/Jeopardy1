@@ -17,3 +17,6 @@ You will also need the following fonts which have been removed for copyright rea
 If you just want to play with binaries, check the Debug folder which should be a complete set of binaries, sound effects, and clues.
 
 If you want to write your own clues for this version (why would you?) read the source code cause I've forgotten all of the special markers that determine if a clue is a daily double, audio, picture, or video clue.
+
+
+This is an archive repo only; no issues or pulls will be accepted.
