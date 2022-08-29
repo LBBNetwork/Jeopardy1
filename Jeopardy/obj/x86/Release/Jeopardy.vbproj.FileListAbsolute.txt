@@ -1,0 +1,10 @@
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\bin\Release\Jeopardy.exe
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\bin\Release\Jeopardy.pdb
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\bin\Release\Jeopardy.xml
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.Form1.resources
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.mcp.resources
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.Resources.resources
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.vbproj.GenerateResource.Cache
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.exe
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.xml
+C:\Users\neko\Documents\Visual Studio 2012\Projects\Jeopardy\Jeopardy\obj\x86\Release\Jeopardy.pdb
